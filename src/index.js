@@ -1,5 +1,5 @@
 // src/index.js
-const { solveDayOnePuzzle } = require('./day-1-trebuchet/solution');
+const { solveDayOnePuzzle } = require('./day-1-trebuchet/day-1-solution');
 
 const main = async () => {
   await solveDayOnePuzzle();
